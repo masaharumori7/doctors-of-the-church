@@ -220,5 +220,11 @@
     "years": "c. 120–202",
     "description": "Saint Irenaeus, Early bishop and Apologist, confronted heresies such as Gnosticism and developed a theology emphasizing apostolic tradition and unity of faith. His work laid foundations for orthodox Christian doctrine by linking Scripture and apostolic teaching. Irenaeus’s writings remain crucial for understanding early Church theology and combating doctrinal error.",
     "notable_works": ["Against Heresies"]
+  },
+  {
+    "name": "Saint John Henry Newman",
+    "years": "1801–1890",
+    "description": "Saint John Henry Newman began his religious life as an Anglican priest, but after deep study and reflection, he converted to Catholicism in 1845 and was ordained a Catholic priest in 1847. He devoted himself to pastoral care and education, founding the Birmingham Oratory and serving the Catholic community with humility and zeal. In 1879, his lifetime of service was recognized when Pope Leo XIII elevated him to the rank of cardinal, a rare honor for someone who was not a bishop.",
+    "notable_works": ["Lectures on the Present Position of Catholics in England", "On the Development of Christian Doctrine", "Idea of A University"]
   }
 ]

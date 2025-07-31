@@ -39,7 +39,7 @@ function App() {
       <header className="roman-header">
         <div className="roman-header-content">
           <h1 className="roman-title">Doctors of the Church Gallery</h1>
-          <span className="roman-intro">Doctors of the Church are saints recognized by the Catholic Church for their significant contributions to theology and doctrine through their writings and teachings. As of 2025, there are 37 Doctors of the Church. Explore their lives, works, and enduring wisdom through the ages.</span>
+          <span className="roman-intro">Doctors of the Church are saints recognized by the Catholic Church for their significant contributions to theology and doctrine through their writings and teachings. As of 2025, there are 38 Doctors of the Church. Explore their lives, works, and enduring wisdom through the ages.</span>
         </div>
         <div className="roman-header-actions">
           <div style={{ display: 'flex', gap: '0.5em', alignItems: 'center' }}>
